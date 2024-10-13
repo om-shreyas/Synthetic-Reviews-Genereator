@@ -112,7 +112,3 @@ Available models:
 ## License
 
 [MIT License](LICENSE)
-
----
-
-Feel free to customize this README to better fit your project's specifics or to add additional sections as needed.
